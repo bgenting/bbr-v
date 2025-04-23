@@ -59,16 +59,6 @@ A: 放心，BBR + FQ 是最常见的方案，适用于大多数场景～
 **Q: 如果不小心把系统搞崩了怎么办？**  
 A: 别慌！记得备份你的内核，或者到 [Joey's Blog](https://joeyblog.net) 查看修复教程。
 
----
-
-### 🌈 作者信息  
-
-**Joey**  
-📖 博客：[JoeyBlog](https://joeyblog.net)  
-💬 群组：[Telegram Feedback Group](https://t.me/+ft-zI76oovgwNmRh)
-
----
-
 ### ❤️ 开源协议  
 
 欢迎使用、修改和传播这个脚本！如果你觉得它对你有帮助，记得来点个 Star ⭐ 哦～  
