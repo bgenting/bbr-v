@@ -75,7 +75,6 @@ A: 别慌！记得备份你的内核，或者到 [Joey's Blog](https://joeyblog.
 🎉 **快来体验不一样的 BBR 管理工具吧！** 🎉  
 ## Star History
 
-<a href="https://star-history.com/#byJoey/Actions-bbr-v3&Timeline">
  <picture>
    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=byJoey/Actions-bbr-v3&type=Timeline&theme=dark" />
    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=byJoey/Actions-bbr-v3&type=Timeline" />
